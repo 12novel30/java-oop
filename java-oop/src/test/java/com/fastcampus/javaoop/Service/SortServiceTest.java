@@ -1,6 +1,7 @@
 package com.fastcampus.javaoop.Service;
 
 import com.fastcampus.javaoop.logic.JavaSort;
+import com.fastcampus.javaoop.service.SortService;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;
