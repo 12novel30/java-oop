@@ -8,6 +8,7 @@ public class JavaOopApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JavaOopApplication.class, args);
+		System.out.println("fight!");
 	}
 
 }
